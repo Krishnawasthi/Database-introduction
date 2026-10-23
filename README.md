@@ -1,3 +1,3 @@
 # Database-introduction
-## What we can read from the data
-<img width="890" height="230" alt="image" src="https://github.com/user-attachments/assets/4b3debb4-fff5-45f9-bdb5-c6f03b13b2f4" />
+## What we can read and write-
+<img width="1383" height="638" alt="image" src="https://github.com/user-attachments/assets/863970ce-6e5a-4f51-abb2-ad868984a830" />
